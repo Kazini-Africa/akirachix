@@ -1,2 +1,3 @@
 console.log("A---->");
-console.log("B------>");
+function helloWord() {}
+console.log("C------>");
